@@ -1,0 +1,7 @@
+I have designed a page that is allow the staff to double confirm the orderd list.
+
+I have designed the table format that can let the staff easily view the orederd item, oredered name, quantity, unit price.
+
+I have designed the database to retrieve the food item show in the order list and store the ordered information to database when the customer confirmed.
+
+In this design task, I had used almost 3 hours to complete the design page and used 6 hour in coding. Besides, I have search the internet to get more information about the page UI style design to make the UI more user friendly and coding to give me more idea.

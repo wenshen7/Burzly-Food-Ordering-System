@@ -1,0 +1,8 @@
+What I did yesterday?
+Yesterday I was quick design a page that is allowed staff to view the ordered food list so that the staff can review and double confirm the order.
+
+What I am doing today?
+Today I going to design the list of orederd item in the page and coding the calculation.
+
+What is blocking me?
+Some logic error are occured make the calculation not add correctly.
