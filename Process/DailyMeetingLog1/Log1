@@ -1,0 +1,6 @@
+Ming Han design a page that is allowed staff to view the ordered food list so that the staff can review and double confirm the order.
+
+Today Ming Han is going to design the list of orederd item in the page and coding the calculation.
+
+Ming Han faced some logic error during the calculation of total order price. I suggested him to check on the variable that use to 
+calculate the total price whether all the ordered item has included or not.
