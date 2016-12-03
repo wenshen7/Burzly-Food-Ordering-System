@@ -1,0 +1,8 @@
+What I did yesterday?
+Yesterday I was quick design a page that is allowed staff to register the supplier into a database
+
+What I am doing today?
+Today I going to design the supplier information page.
+
+What is blocking me?
+Some run time error are occured make add the supplier's information into database.
