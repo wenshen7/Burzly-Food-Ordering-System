@@ -1,0 +1,12 @@
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\obj\Debug\OrderedList.FrmPayment.resources
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\obj\Debug\OrderedList.Resources.resources
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\obj\Debug\OrderedList.vbproj.GenerateResource.Cache
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\bin\Debug\OrderedList.exe.config
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\bin\Debug\BurzlyDB.mdf
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\bin\Debug\BurzlyDB_log.ldf
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\bin\Debug\OrderedList.exe
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\bin\Debug\OrderedList.pdb
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\bin\Debug\OrderedList.xml
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\obj\Debug\OrderedList.exe
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\obj\Debug\OrderedList.xml
+C:\Users\MHY\Desktop\order list\OrderedList\OrderedList\obj\Debug\OrderedList.pdb
