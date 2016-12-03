@@ -1,0 +1,8 @@
+What I did yesterday?
+Yesterday, I have designed a page that is allowed the staff to register an account.
+
+What I am doing today?
+I am going to test the designed page to check any error occuring.
+
+What is blocking me?
+Some of the data cannot be saved into database.
