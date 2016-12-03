@@ -1,0 +1,7 @@
+I have been designed a database to allow the user to add the supplier into database¡£
+
+I have been designed text fields to allow the user to add the information inside the fields and provide the error checking.
+
+In this design task, I used almost 1 hours to complete the design page and used 8 hour in coding. 
+
+Furthermore, I have do some searching from internet to get more information about the coding when I face the problem.
