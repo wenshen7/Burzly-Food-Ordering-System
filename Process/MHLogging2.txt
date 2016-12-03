@@ -1,0 +1,23 @@
+What did I do yesterday?
+Yesterday I had designed the requirement of the page needed and also doing a quick design for the "point of sale" page.
+
+What I am doing today?
+Today I intend to code the "point of sale" page and design the interface and also going to update the database.
+
+What is blocking me?
+Some coding errors are occured caused the page could not add in the testable data into the system.
+
+Activity Log
+I have designed the page which allowed the staffs to add in new payment and take order.
+
+I have designed 2 big label box in which the first big label box is showing few particulars such as ID No. which is the receipt number, Date and Time is followed the system's today date and time and Table No. is customer's seated number. Another big label box is displaying the sum of total price.
+
+I have designed the font size with its color which enables staffs to view the interface easily.
+
+I have added a back button which is for returning back to previous page.
+
+I have added 2 buttons which are cash and credit card buttons, which allow staffs to choose alternatively according to the payment made by customer whether is cash or credit card.
+
+I have added a loading bar which shows the process of receipt printing for completion.
+
+I have added the Food Menu button to allow staffs to click it for adding in more order.
