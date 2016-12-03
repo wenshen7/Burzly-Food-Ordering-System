@@ -1,0 +1,8 @@
+What I did yesterday:
+I have designed a page that allow admin to add new stock to the database.
+
+What I am doing today:
+I am going to test the designed form with textbox, drop down list and so on to prevent admin to enter invalid value for every stock details accordingly.
+
+What is blocking me:
+Some error handling format which is quite complicated that I need more time to figure it out by searching online.
